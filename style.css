@@ -1,0 +1,18 @@
+body{
+    background-color:darkorange;
+}
+h1{
+    color:ghostwhite;
+    font-size:50px;
+    font-family:fantasy;
+}
+button{
+    font-size: 30px;
+    background-color: gold;
+    border-radius: 10px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+#name{
+    font-size:30px;
+    color:mintcream;
+}
